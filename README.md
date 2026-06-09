@@ -1,6 +1,6 @@
  # ComProg Practice Exercises
 
- This is created as a review and enhancing skills in C Programming. It is recommended you use `DevC++ 5.11` for your IDE as you go through the problem set.
+ This is created as a review and enhancing skills in C Programming. It is recommended you use `DevC++ 6.3` for your IDE as you go through the problem set.
  
 ---
 ## Approximate Time of Completion
